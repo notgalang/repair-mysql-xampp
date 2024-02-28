@@ -5,4 +5,4 @@ This is a tool to help me repair mysql on xampp that i installed on windows 11, 
 1. First open ```repair.bat``` using notepad or VS Code
 2. Search ``xamppLocation=Your XAMPP Location``
 3. Example ```xamppLocation=c:\xampp```
-4. Then ```run repair.bat``` by double clicking
+4. Then run ```repair.bat``` by double clicking
